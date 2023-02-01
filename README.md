@@ -1,7 +1,6 @@
-# CAPSTONE MOVIES MV
+# MV Searcher
 
-Movies MV , search for any movie and show by name and add it to your like list.
-See all the details about the movies and it's realse time. Comment and interact with other users. 
+MV Searcher is a JavaScript-based application styled by TailwindCSS and CSS3, that allows users to search for movies and shows by name through the search bar. Getting overall information, giving likes and dislikes, or making and seeing comments is possible due to the different API requests we make along the client-side interaction.
 
 ## Live Demo
 
