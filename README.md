@@ -6,56 +6,54 @@ MV Searcher is a JavaScript-based application styled by TailwindCSS and CSS3, th
 
 [Movies App](https://mov305.github.io/moviesC2/dist/)
 
-## Introduction Video
+## Project presentation
 
 [Movies MV](https://youtu.be/2ux7ZDY3zmw)
+
+## Visual materials
+
+![mv-desktop](https://user-images.githubusercontent.com/97189760/216175614-5d7ee2a3-81a6-47ed-8bde-e3205158c203.png)
+![mv-modal](https://user-images.githubusercontent.com/97189760/216175628-f3780950-8d7f-40ce-bd20-2f59825be23a.png)
+
 
 ## Built With
 
 GitHub,
-GitHub Flow,
+GitHub Workflow,
 Visual Studio Code,
 HTML,
 CSS,
 Javascript,
-Webpack
+Webpack,
+TailwindCSS
 
 ## Getting Started
 
-Welcome to Awesome Books! We introduce new search methodology applied with javascript and dynamic html. New work dynamic creating and merging secondary branches for a single pull request.
 To get a local copy up and running follow these simple example steps.
-1- Download the zip file or clone it via git
-2- Navigate to the location of the folder in your machine:
-**`you@your-Pc-name:~$ cd <folder>`**
-3- after you get the project to your local machine open the index.html file or simply run the live server
-4- install the node packages via npm install
-4- to Check for linters run (npx hint .) for html code fixed and npx stylelint "\*_/_.{css,scss}"
 
 ### Clone and review it
 
 Run the following commands to clone and run it.
 
-### To clone the repository
+### To clone the repository:
 
-git clone https://github.com/Mov305/moviesC2
+**`git clone https://github.com/Mov305/moviesC2`**
 
-### To enter Directory
+**`cd <folder where you cloned the repo>`**
 
-cd moviesC2
+### To install packages:
 
-### To Install Packages
+**`npm install`**
 
-npm install
+### Run the project on local server running the following command:
 
-### To run project on local server
+**`npm start`**
 
-npm start
+### To open project with VScode from the machine terminal:
 
-### To open project with vs code
+**`code .`**
 
-code .
-
-## Author
+## Authors
 
 #### Angel
 GitHub:[@angeluray](https://github.com/angeluray)
@@ -77,10 +75,7 @@ Please rate this project.
 
 ## Acknowledgements
 
-Microverse Community
-GitHub Repositories
-Awesome Books template
-Inspiration
+- Thanks to the Microverse community for support us with our project, and using it as a guide or inspiration for the future.
 
 ## 📝 License
 
